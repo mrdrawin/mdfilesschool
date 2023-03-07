@@ -124,7 +124,7 @@ Insgesamt bieten Animationen in Unity eine leistungsstarke Möglichkeit, Charakt
 
 ## Movement- Skript / Skript erweitern 
 
-- NavMeshAgent steuert nur Rotation 
+- NavMeshAgent steuert nur Position und Rotation 
 - NavMeshAgent Treadmill Animation -> no Root Animation
 
 ```c#
