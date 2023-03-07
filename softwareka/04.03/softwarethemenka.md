@@ -2,6 +2,7 @@
 
 ## Auswahl von Assets : Selbermachen, Fertige Auswählen, Lizenzen
 
+- Allgemeine Info über Lizenzen - worauf soll man bei Lizenzen aufpassen.
 - Selbermachen (DIY): Wenn Sie Assets selbst erstellen, haben Sie die vollständige Kontrolle über das Endergebnis und können es so anpassen, wie Sie es benötigen. Dies erfordert jedoch oft spezialisierte Fähigkeiten und kann viel Zeit und Mühe erfordern.
 
 - Fertige Auswählen: Wenn Sie Assets auswählen, die bereits erstellt wurden, sparen Sie Zeit und Mühe beim Erstellen eigener Assets. Sie haben jedoch möglicherweise nicht die volle Kontrolle über das Endergebnis und können möglicherweise Kompromisse bei der Anpassung eingehen müssen.
@@ -123,6 +124,8 @@ Insgesamt bieten Animationen in Unity eine leistungsstarke Möglichkeit, Charakt
 
 ## Movement- Skript / Skript erweitern 
 
+- NavMeshAgent steuert nur Rotation 
+- NavMeshAgent Treadmill Animation -> no Root Animation
 
 ```c#
 using System.Collections;
